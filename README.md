@@ -4,4 +4,4 @@ Using the Git platform, deploy a CRM system for MSU. All processes must be trace
 
 Initial Project 
 
-garnnet gumbo R1917555C
+Garnnet Gumbo R1917555C
