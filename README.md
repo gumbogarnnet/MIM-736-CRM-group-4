@@ -14,6 +14,8 @@ Patience Nyamande R2216694C
 
 Tadiwanashe Murandu R182414Z
 
+Davie Rombedza R134312Q
+
 **OverView**
 
 Group 4 developed a system in which  writing and testing code was carried out , managing project tasks, and collaborating with other group members. Using the Git platform for version control, collaboration, and deployment of code Here are the steps taken for developing, collaborating, and deploying the MSU CRM system using the Github platform:
