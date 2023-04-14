@@ -7,11 +7,17 @@ Using the Git platform, deploy a CRM system for MSU. All processes must be trace
 **Group Members**
 
 Garnnet Gumbo R1917555C
+
 Talent Mabuto R142237M
+
 Clemence Tatiro R11744T
+
 Patience Nyamande R2216694C
+
 Tadiwanashe Murandu R182414Z
+
 Carlton Murungu  R224895V
+
 Davie Rombedza R134312Q
 
 
