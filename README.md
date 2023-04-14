@@ -1,8 +1,8 @@
 # MIM-736-CRM-group-4
-
+# Site  is Live on :https://gumbogarnnet.github.io/MIM-736-CRM-group-4/
 Using the Git platform, deploy a CRM system for MSU. All processes must be traceable as we collaborate (50 marks)
 
-**Group Members**
+#**Group Members**
 
 Garnnet Gumbo R1917555C
 
